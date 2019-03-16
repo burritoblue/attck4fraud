@@ -1,0 +1,21 @@
+Fraud Technique: ATM skimming
+Fraud Tactic: Initiation
+ID: FT1003
+Version: 0.1
+
+Description:
+ATM Skimming refers to the act of capturing the data stored on a bank cards (“tracks”) and the Personal Identification Number (PIN) associated to that card. Upon obtaining the data, the criminal proceeds to encode the same information into a new card and use it in combination with the PIN to perform illicit cash withdrawals. ATM Skimming is often achieved with a combination of a skimmer device for the card and a camera to capture the PIN.
+
+Examples:
+Insert skimmer; Deep-insert skimmer; overlay pad skimmer; Green skimmer; wiretapping.
+
+Mitigation:
+Anti-skimming technology: metal detection for card readers, card jitter motion (enterprise). Cover the numerical input pad while entering the PIN (customer); Avoid self-standing ATMs in isolated areas (customer); Chip installed on bank cards (enterprise).
+
+Detection:
+Anti-skimming technology: metal detection for card readers, card jitter motion. Visual evidence of tampering with the ATM; comparison to nearby ATMs of the same manufacturer and model; Presence of hidden cameras in the ATM fascia or near the PIN pad.
+
+References:
+[1] https://krebsonsecurity.com/2015/07/spike-in-atm-skimming-in-mexico/ [2] https://krebsonsecurity.com/2011/12/pro-grade-3d-printer-made-atm-skimmer/ [3] https://krebsonsecurity.com/2017/08/dumping-data-from-deep-insert-skimmers/ [4] https://krebsonsecurity.com/2016/06/atm-insert-skimmers-in-action/ [5] https://krebsonsecurity.com/2014/11/skimmer-innovation-wiretapping-atms/ [6] https://krebsonsecurity.com/2016/09/secret-service-warns-of-periscope-skimmers/ [7] https://krebsonsecurity.com/2011/03/green-skimmers-skimming-green [8] https://blog.dieboldnixdorf.com/have-you-asked-yourself-this-question-about-skimming/?utm_medium=skimmed+shimmed+blog&utm_source=detect&utm_campaign=manage
+
+Victim: end customer, enterprise

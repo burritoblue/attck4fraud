@@ -1,0 +1,5 @@
+Name: Target Compromise
+ID: FTA0002
+
+Description:
+The Target Compromise tactic ris the results of actions that allow the fraudster to obtain access to the victim's asset. Before Target Compromise the fraudster has engaged with the victim and after a successful Target compromise he/she has access to the asset of the victim.

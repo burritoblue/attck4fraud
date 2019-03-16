@@ -1,0 +1,5 @@
+Tactic: Assets Transfer
+ID: FTA0005
+
+Description:
+Assets Transfer collects all techniques used by a fraudster to transfer the ownership or extract the assets obtained through the fraud. Techniques in this tactic can be chained together to reach the end goal of extracting the assets of the value the carry.

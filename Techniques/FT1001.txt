@@ -1,0 +1,23 @@
+Fraud Technique: Phishing
+Fraud Tactic: Initiation
+ID: FT1001
+Version: 0.1
+
+Description:
+In the context of ATT&CK for Fraud, phishing is described as the sending of fraudulent emails to a large audience in order to obtain sensitive information (PII, credentials, payment information). Phishing is never targeted to a specific individual or organisation. Phishing tries to create a sense of urgency or curiosity in order to capture the victim.
+
+Examples:
+Phishing messages were sent to Amazon users posing as the Amazon customer support [1] 
+Fake Apple invoices were sent to Apple App Store customers in order to obtain their Apple ID credentials [2]
+
+Mitigation:
+Implementation of DKIM and SPF authentication to detected spoofed email senders; anti-phishing solutions.
+
+Detection:
+Email sender is spoofed; Email sender belongs to a domain recently created; Presence of typos or poor grammar in the email text; The request in the mail is unsolicited and creates urgency; No recollection of the subject or the sender of the phishing email; Request for credentials; Presence of a suspicious URL or attachment.
+
+References:
+[1] https://blog.malwarebytes.com/cybercrime/2015/02/amazon-notice-ticket-number-phish-seeks-card-details/
+[2] https://www.bleepingcomputer.com/news/security/widespread-apple-id-phishing-attack-pretends-to-be-app-store-receipts/
+
+Victim: end customer, enterprise

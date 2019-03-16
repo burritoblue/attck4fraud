@@ -1,0 +1,5 @@
+Name: Perform Fraud
+ID: FTA0003
+
+Description:
+The Perform Fraud tactic collects techniques used by a fraudster to deceive the victim or the environment where the victim operates in order to commit fraud.

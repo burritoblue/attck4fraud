@@ -1,0 +1,5 @@
+Tactic: Monetisation
+ID: FTA0006
+
+Description:
+The Monetisation tactic represent how fraudster convert the assets stolen from a victim into other assets, usually in the form of currency. Monetisation can take place at the location of the initial asset, like in the case of ATMs.

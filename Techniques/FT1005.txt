@@ -1,0 +1,21 @@
+Fraud Technique: Vishing
+Fraud Tactic: Initiation
+ID: FT1005
+Version: 0.1
+
+Description:
+
+
+Examples:
+
+
+Mitigation:
+
+
+Detection:
+
+
+References:
+
+
+Victim:

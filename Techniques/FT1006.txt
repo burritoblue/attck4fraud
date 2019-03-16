@@ -1,0 +1,21 @@
+Fraud Technique: Smishing
+Fraud Tactic: Initiation
+ID: FT1006
+Version: 0.1
+
+Description:
+
+
+Examples:
+
+
+Mitigation:
+
+
+Detection:
+
+
+References:
+
+
+Victim:

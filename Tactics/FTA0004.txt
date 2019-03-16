@@ -1,0 +1,5 @@
+Tactic: Obtain Fraudulent Assets
+ID: FTA0004
+
+Description:
+The Obtain Fraudulent Assets tactic represents actions that result in the fraudster obtaining the assets that previously belonged to the victim. While the nature of the assets may vary, techniques that are part of Obtain Fraudulent Assets imply that the fraudster is able to access and manipulate the victim's assets.

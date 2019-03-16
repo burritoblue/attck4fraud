@@ -1,0 +1,21 @@
+Fraud Technique: Spear phishing
+Fraud Tactic: Initiation
+ID: FT1002
+Version: 0.1
+
+Description:
+Spear phishing is the use of targeted emails to gain the trust of the target with the goal of committing fraud. Spear phishing messages are generally specific to the target and show an understanding of the target’s organisation structure, supply chain or business.
+
+Examples:
+In 2013 a Lithuanian man was able to obtain the trust of Facebook and Google and gain a sum of over USD 100 million in fraudulent payments [1] World Anti-Doping Agency was targeted by spear phishing emails trying to obtain valid credentials [2]
+
+Mitigation:
+Implementation of DKIM and SPF authentication to detected spoofed email senders; flagging email coming from outside the enterprise (enterprise); anti-phishing solutions; awareness training (enterprise).
+
+Detection:
+Email sender is spoofed; Email sender belongs to a domain recently created; The request in the mail is unsolicited and creates urgency; No recollection of the subject or the sender of the phishing email; Request for credentials; Presence of a suspicious URL or attachment.
+
+References:
+[1] http://fortune.com/2017/04/27/facebook-google-rimasauskas/ [2] https://www.ibtimes.co.uk/russian-hackers-fancy-bear-likely-breached-olympic-drug-testing-agency-dnc-experts-say-1577508
+
+Victim: end customer, enterprise

@@ -1,0 +1,5 @@
+Name: Initiation
+ID: FTA0001
+
+Description:
+The Initiation tactic represents the vector used by fraudster to initiate the fraud. Initiation covers the first contact with the victim.
