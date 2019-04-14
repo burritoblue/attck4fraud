@@ -1,0 +1,21 @@
+Fraud Technique: Social Media Scams
+Fraud Tactic: Initiation
+ID: FT1007
+Version: 0.1
+
+Description:
+
+
+Examples:
+
+
+Mitigation:
+
+
+Detection:
+
+
+References:
+
+
+Victim:

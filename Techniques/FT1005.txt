@@ -4,18 +4,26 @@ ID: FT1005
 Version: 0.1
 
 Description:
+Vishing, or Voice phishing, is a fraud scheme targeting a victim over a phone line. The attacker aims to obtain the victim's information (personal or financial) or access to assets and systems. Characteristic of vishing is the presence of the verbal medium to enable direct or indirect communication, usually via pre-recorded messages and the use of voicemails. Most vishing calls masks the true origin of the call "caller ID spoofing" to increase the attack legitimacy and chances of success [1].
 
+A variation of Vishing is Wangiri: the fraudster calls the victim but lets the phone ring exactly one time. The fraud relies on the curiosity of the victim, who will see the missed call and will call back the fraudster. The fraudster's number is typically a premium number and the cost of the call is billed to the victim. Other variations are the tech support scam, IRS imposter scam, family emergency scam.
 
 Examples:
-
+A woman from Christchurch (UK) was called by a fraudster who, pretending to be from her bank, tricked her into transferring funds to two rogue accounts [2]
+Internal Revenue Service (IRS) scam was perpetrated via phone calls putting pressure on victim using data previously collected [3]
+Three Romanian citizens plead guilty to participating in a multi-million dollar “vishing and smishing” scheme [4]
 
 Mitigation:
-
+Do not return calls coming from unknown international numbers. This is especially true when the calling number is associated to a country where the victim has no existing ties; 
 
 Detection:
+International calls coming from countries where the victim has no business nor personal relations; The incoming call is disconnected immediately after connection and before the victim is able to pick up.
 
 
 References:
+[1] https://www.europol.europa.eu/publications-documents/cyber-telecom-crime-report-2019
+[2] https://www.bbc.com/news/uk-england-dorset-25986699
+[3] https://edition.cnn.com/2015/03/13/us/irs-scam/index.html
+[4] https://www.justice.gov/usao-ndga/pr/three-romanian-citizens-plead-guilty-participating-multi-million-dollar-vishing-and
 
-
-Victim:
+Victim: end customer, enterprise
